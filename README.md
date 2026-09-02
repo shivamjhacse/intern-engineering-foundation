@@ -26,3 +26,15 @@ intern-engineering-foundation/
 │   └── test_profile.py
 ├── .gitignore
 └── README.md
+```
+
+##  Commit History
+
+The project was developed through small, meaningful commits:
+
+1. `add initial project structure`
+2. `add profile test`
+3. `add git workflow documentation`
+4. `improve project README`
+5. `improve profile tests`
+
